@@ -1,0 +1,12 @@
+Line 1: Roshmi
+Line 2: 18
+Line 3: Hi I am Roshmi.
+Line 4: I am 18 years old.
+Line 5: I am a student of St.Xavier's College, Kolkata.
+Line 6: Coding should become my cup of tea by the next 4 years.
+Line 7: Programming is fun!
+
+
+No. of lines: 7
+No. of characters: 162
+No. of words: 34
